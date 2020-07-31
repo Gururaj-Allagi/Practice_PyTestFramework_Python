@@ -2,5 +2,5 @@
 
 Practiced scripts has been uploaded here
 
-Programming Language: Python
-Framework: PyTest
+Programming Language: **Python** </br>
+Framework: **PyTest**
